@@ -11,3 +11,7 @@ This was one of the first programs I wrote where several pieces of Python starte
 
 # next_leap_year
 A logic puzzle wrapped in a riddle disguised as a math problem. This had me stumped for a time, but I *did* conquer it—and now it stays here forever as a trophy of pain and progress.
+
+
+# working_with_numbers
+I enjoyed this one. It was in 4 parts (technically 5 with pre-task). It kept adding new conditions and I had to figure out the order of the varying counters to make sure only the information I wanted was included in them. It had been a long day and I was going to wait until after I slept but I took my time and enjoyed piecing it together. A nice woohooo! before the zzz.

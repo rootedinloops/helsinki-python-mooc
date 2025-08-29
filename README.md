@@ -3,7 +3,7 @@
 
 
 
-# University of Helsinki Python MOOC Exercises
+# helsinki_python_mooc
 
 This repository contains my personal solutions to exercises from the [University of Helsinki’s Python Programming MOOC](https://programming-22.mooc.fi/).
 

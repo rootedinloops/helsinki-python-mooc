@@ -15,3 +15,11 @@ A logic puzzle wrapped in a riddle disguised as a math problem. This had me stum
 
 # working_with_numbers
 I enjoyed this one. It was in 4 parts (technically 5 with pre-task). It kept adding new conditions and I had to figure out the order of the varying counters to make sure only the information I wanted was included in them. It had been a long day and I was going to wait until after I slept but I took my time and enjoyed piecing it together. A nice woohooo! before the zzz.
+
+
+# 📁 Strings Subfolder
+
+I created a `strings/` subfolder to keep all my Week 3 string slicing exercises organized.  
+This is where I’ll collect anything related to string manipulation, slicing, and possibly rage-typing.
+
+Check it out: [`strings/`](./strings/)

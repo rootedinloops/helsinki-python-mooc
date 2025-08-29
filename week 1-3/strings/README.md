@@ -19,3 +19,8 @@ I am sure for some of you this is nice and easy, but I actually had a lightbulb 
 Takes a word and looks at the second and second-to-last characters, then lets the user know if they are the same or different.
 
 I actually felt a minor victory here for myself. The derp and slight brain fog stayed away as I figured it out.  
+
+
+# underlining
+
+Practice using loops and string length to create underlines of user input

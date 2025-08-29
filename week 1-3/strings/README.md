@@ -1,4 +1,4 @@
-![String Slicer Cat](./string-slicer-cat.png)
+![String Slicer Cat](./string-slicer.png)
 
 # 🧵 String Slicing Exercises
 

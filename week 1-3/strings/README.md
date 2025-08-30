@@ -24,3 +24,8 @@ I actually felt a minor victory here for myself. The derp and slight brain fog s
 # underlining
 
 Practice using loops and string length to create underlines of user input
+
+# center_framed_word
+
+Centering a word inside a framed box. First time around this alluded me completely. This time I got it all but the right side, until it dawned on me I forgot to remove the length of the word itself, derp!
+

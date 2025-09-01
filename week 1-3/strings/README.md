@@ -29,3 +29,8 @@ Practice using loops and string length to create underlines of user input
 
 Centering a word inside a framed box. First time around this alluded me completely. This time I got it all but the right side, until it dawned on me I forgot to remove the length of the word itself, derp!
 
+# substrings_backwards
+
+Just starting out on string slicing.
+Starting from the last character, this prints the string one piece at a time as it grows backward to the beginning.
+
